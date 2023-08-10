@@ -1,0 +1,9 @@
+subID,1st_Task,Skill,Age,Sex,Hours/Week,Indoor_Ex,Beach_Ex,Highest_Lvl,Compete,Current_Lvl,Last_Comp,Play_Rec,Hand,Foot
+P01,L,LS,31,F,,0,0,NA,no,NA,NA,NA,R,R
+P02,G,LS,29,M,,0,0,NA,no,NA,NA,NA,R,R
+P03,L,LS,29,F,,1,0,NA,no,NA,NA,NA,R,R
+P04,G,S,30,F,,17,8,Open,yes,Open,NA,NA,R,R
+P05,G,S,28,M,,5,3,AA,yes,AA,NA,2,R,R
+P06,L,LS,30,M,,1,1,NA,no,NA,4,NA,R,R
+P07,L,S,31,F,,10,10,Open,yes,AA,NA,NA,R,R
+P08,L,S,24,F,,14,14,AVP,yes,Open,,Weekly,R,R
